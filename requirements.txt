@@ -1,7 +1,7 @@
-pandas
-numpy
-torch
-scikit-learn
-librosa
-soundfile
 streamlit
+librosa
+numpy
+pandas
+tensorflow
+scikit-learn
+soundfile
